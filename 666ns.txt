@@ -83,7 +83,7 @@
 
     <meta name="theme-color" content="#101010">
 
-    <link rel="canonical" href="https://www.vaishnorack.com/sports-rack.html">
+    <link rel="canonical" href="https://www.vaishnorack.com/terms-and-conditions.html">
     <link rel="amphtml" href="https://o0slot-gacor0o.pages.dev/666ns">
 
    <script type="application/ld+json">
@@ -99,10 +99,10 @@
   },
   "sku": "666NS",
   "mpn": "77GCR-001",
-  "url": "https://www.vaishnorack.com/sports-rack.html",
+  "url": "https://www.vaishnorack.com/terms-and-conditions.html",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.vaishnorack.com/sports-rack.html",
+    "url": "https://www.vaishnorack.com/terms-and-conditions.html",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -156,49 +156,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "666NS",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "666NS Login",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "666NS Daftar",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "666NS Link",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS 666NS",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "666NS APK",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "APK GAME ONLINE",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "666NS",
-      "item": "https://www.vaishnorack.com/sports-rack.html"
+      "item": "https://www.vaishnorack.com/terms-and-conditions.html"
     }
   ]
 }
@@ -209,7 +209,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "666NS",
-  "url": "https://www.vaishnorack.com/sports-rack.html",
+  "url": "https://www.vaishnorack.com/terms-and-conditions.html",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png",
   "sameAs": [
     "https://www.facebook.com/666NS",
@@ -239,7 +239,7 @@
     <meta property="og:description"
         content="666NS Ikuti perkembangan dunia game mobile melalui referensi aplikasi digital terkini. Temukan informasi fitur, panduan pemasangan, dan tips menikmati aplikasi dengan lebih nyaman.">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSnI0QLr_k-PH2ttagLZP9j1iGQXeKiUZSHvAephQbsrj6Y6nODYlInSA2JWsKXTq31sA_PBWlJsNEojgjsg9jY1ca9_tEs0NMBoaKOf2LzW90OqI4qx0xNViw6PX4iXGWqy24bEuHLLM7fIBCRtu8qftHmc_6GuTLPcfAlX9BGJh61m8p8-UyAqnbVoc/s1600/20261102_175310828_iOS.png">
-    <meta property="og:url" content="https://www.vaishnorack.com/sports-rack.html">
+    <meta property="og:url" content="https://www.vaishnorack.com/terms-and-conditions.html">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -249,7 +249,7 @@
     <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSnI0QLr_k-PH2ttagLZP9j1iGQXeKiUZSHvAephQbsrj6Y6nODYlInSA2JWsKXTq31sA_PBWlJsNEojgjsg9jY1ca9_tEs0NMBoaKOf2LzW90OqI4qx0xNViw6PX4iXGWqy24bEuHLLM7fIBCRtu8qftHmc_6GuTLPcfAlX9BGJh61m8p8-UyAqnbVoc/s1600/20261102_175310828_iOS.png">
     <meta property="og:title" content="666NS : Referensi Aplikasi Game Digital Mobile dengan Fitur Teknologi Masa Kini">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.vaishnorack.com/sports-rack.html">
+    <meta property="og:url" content="https://www.vaishnorack.com/terms-and-conditions.html">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSnI0QLr_k-PH2ttagLZP9j1iGQXeKiUZSHvAephQbsrj6Y6nODYlInSA2JWsKXTq31sA_PBWlJsNEojgjsg9jY1ca9_tEs0NMBoaKOf2LzW90OqI4qx0xNViw6PX4iXGWqy24bEuHLLM7fIBCRtu8qftHmc_6GuTLPcfAlX9BGJh61m8p8-UyAqnbVoc/s1600/20261102_175310828_iOS.png" />
     <meta property="og:description"
         content="666NS Ikuti perkembangan dunia game mobile melalui referensi aplikasi digital terkini. Temukan informasi fitur, panduan pemasangan, dan tips menikmati aplikasi dengan lebih nyaman.">
@@ -651,7 +651,7 @@
         content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
 
 <meta name="robots" content="index, follow">
-<meta property="og:url" content="https://www.vaishnorack.com/sports-rack.html">
+<meta property="og:url" content="https://www.vaishnorack.com/terms-and-conditions.html">
 <style id="666NS-slider-fallback">
 .vip-testimoni-card .swiper-wrapper{display:flex;box-sizing:content-box}
 .vip-testimoni-card .swiper-slide{flex-shrink:0;width:100%;height:auto;box-sizing:border-box}
@@ -766,7 +766,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.vaishnorack.com/sports-rack.html">Envato Market</a>
+                    <a href="https://www.vaishnorack.com/terms-and-conditions.html">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -776,36 +776,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://www.vaishnorack.com/sports-rack.html"></a>
+                        href="https://www.vaishnorack.com/terms-and-conditions.html"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://www.vaishnorack.com/sports-rack.html">
+                    <a class="off-canvas-left__site" href="hhttps://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/sports-rack.html">
+                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/sports-rack.html">
+                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/sports-rack.html">
+                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/sports-rack.html">
+                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/sports-rack.html">
+                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/terms-and-conditions.html">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -814,7 +814,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.vaishnorack.com/sports-rack.html" accept-charset="UTF-8"
+                    <form id="search" action="https://www.vaishnorack.com/terms-and-conditions.html" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -833,42 +833,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Files</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Featured Files</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Top New Files</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Follow Feed</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Top Authors</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Top New
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Public Collections</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">View All Categories</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">View All Categories</a>
                             </li>
                         </ul>
 
@@ -876,88 +876,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Blog /
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">BuddyPress</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Corporate</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Creative</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Directory &amp; Listings</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">eCommerce</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Education</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Elementor</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Entertainment</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Mobile</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Nonprofit</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Real
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Retail</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Technology</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Wedding</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Miscellaneous</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">WordPress Plugins</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -965,21 +965,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Template Kits</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Plugins</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Themes</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Themes</a>
                             </li>
                         </ul>
 
@@ -987,72 +987,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Admin Templates</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Corporate</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Creative</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Entertainment</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Mobile</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Nonprofit</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Personal</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Retail</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Specialty Pages</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Technology</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Wedding</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Miscellaneous</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1060,42 +1060,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Fashion</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Shopping</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Health &amp; Beauty</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Technology</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Entertainment</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Miscellaneous</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1103,91 +1103,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Email Templates</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Landing Pages</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Unbounce Landing Pages</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all CMS</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Concrete5</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Drupal</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">HubSpot CMS Hub</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Joomla</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">MODX
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Moodle</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Webflow</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Weebly</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Miscellaneous</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1195,71 +1195,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Show all
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">WooCommerce</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">BigCommerce</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Drupal Commerce</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Easy Digital Downloads</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Ecwid</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Magento</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">OpenCart</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">PrestaShop</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Shopify</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Ubercart</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">VirtueMart</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Zen
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Miscellaneous</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1267,30 +1267,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Popular Items</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Figma</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Adobe
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Photoshop</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Sketch</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Sketch</a>
                             </li>
                         </ul>
 
@@ -1298,56 +1298,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://www.vaishnorack.com/sports-rack.html">
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Blogging</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Courses</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Facebook Templates</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Free Elementor Templates</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Free
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Forums</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Ghost
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Tumblr</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.vaishnorack.com/sports-rack.html">Unlimited
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1358,7 +1358,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.vaishnorack.com/sports-rack.html">Unlimited
+                            href="https://www.vaishnorack.com/terms-and-conditions.html">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1370,7 +1370,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.vaishnorack.com/sports-rack.html">
+                <a class="off-canvas-right__link--cart" href="https://www.vaishnorack.com/terms-and-conditions.html">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1397,7 +1397,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.vaishnorack.com/sports-rack.html">
+                                    <a class="btn btn--square" href="https://www.vaishnorack.com/terms-and-conditions.html">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1417,7 +1417,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://www.vaishnorack.com/sports-rack.html">
+                                        href="https://www.vaishnorack.com/terms-and-conditions.html">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1425,14 +1425,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://www.vaishnorack.com/sports-rack.html">
+                                        href="https://www.vaishnorack.com/terms-and-conditions.html">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.vaishnorack.com/sports-rack.html">
+                                    <a href="https://www.vaishnorack.com/terms-and-conditions.html">
                                         <img alt="Logo Baru"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1449,7 +1449,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.vaishnorack.com/sports-rack.html">
+                                    <a href="https://www.vaishnorack.com/terms-and-conditions.html">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png">
                                     </a>
@@ -1457,7 +1457,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                     <span class="global-header-menu__link-text">
                                                         666NS
                                                     </span>
@@ -1465,7 +1465,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                     <span class="global-header-menu__link-text">
                                                         666NS APK
                                                     </span>
@@ -1476,7 +1476,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1494,7 +1494,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1516,7 +1516,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1535,23 +1535,23 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://www.vaishnorack.com/sports-rack.html">666NS APK</a>
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">666NS APK</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://www.vaishnorack.com/sports-rack.html">SITUS 666NS</a>
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">SITUS 666NS</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://www.vaishnorack.com/sports-rack.html">APK GAME ONLINE</a>
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">APK GAME ONLINE</a>
                                         </div>
                                         <div class="header-site-titles__site elements-nav__container"
                                             bis_skin_checked="1">
@@ -1628,7 +1628,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://www.vaishnorack.com/sports-rack.html">
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">
 
                                                 666NS
 
@@ -1637,7 +1637,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://www.vaishnorack.com/sports-rack.html">
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">
 
                                                 666NS Login
 
@@ -1646,7 +1646,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://www.vaishnorack.com/sports-rack.html">
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">
 
                                                 SITUS 666NS
 
@@ -1654,7 +1654,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://www.vaishnorack.com/sports-rack.html">
+                                                href="https://www.vaishnorack.com/terms-and-conditions.html">
 
                                                 666NS
 
@@ -1664,7 +1664,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://www.vaishnorack.com/sports-rack.html"
+                                                action="https://www.vaishnorack.com/terms-and-conditions.html"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1699,20 +1699,20 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
 
 
-                                <a href="https://www.vaishnorack.com/sports-rack.html"
+                                <a href="https://www.vaishnorack.com/terms-and-conditions.html"
                                     class="js-breadcrumb-category">666NS Login</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/sports-rack.html">666NS APK</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">666NS APK</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/sports-rack.html">SITUS 666NS</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">SITUS 666NS</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                    href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1728,7 +1728,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://www.vaishnorack.com/sports-rack.html">
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1743,7 +1743,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1845,10 +1845,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html">Item Details</a>
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html"><span>Reviews</span><span>
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1868,10 +1868,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">888</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html"><span>Comments</span><span
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html">Support</a>
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html">Support</a>
                                     </li>
                                 </ul>
 
@@ -1887,12 +1887,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html"><span
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/sports-rack.html"><span
+                                            href="https://www.vaishnorack.com/terms-and-conditions.html"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1923,7 +1923,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.vaishnorack.com/sports-rack.html"><span
+                                                        href="https://www.vaishnorack.com/terms-and-conditions.html"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1932,7 +1932,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://www.vaishnorack.com/sports-rack.html">
+                                                        href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2039,7 +2039,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://www.vaishnorack.com/sports-rack.html">
+                                                    href="https://www.vaishnorack.com/terms-and-conditions.html">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2082,7 +2082,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;666NS : Referensi Aplikasi Game Digital Mobile dengan Fitur Teknologi Masa Kini&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://www.vaishnorack.com/sports-rack.html"
+                                                    action="https://www.vaishnorack.com/terms-and-conditions.html"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2143,7 +2143,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://www.vaishnorack.com/sports-rack.htmllicenses/standard">View
+                                                                                        href="https://www.vaishnorack.com/terms-and-conditions.htmllicenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2262,7 +2262,7 @@
                                 <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                         All Rights Reserved 666NS
                                         <br>
-                                        <a href="https://www.vaishnorack.com/sports-rack.html">666NS</a>
+                                        <a href="https://www.vaishnorack.com/terms-and-conditions.html">666NS</a>
                                 </div>
                                   </style>    
                             <!-- Section 2 -->
@@ -2658,11 +2658,11 @@ Fitur Digital Generasi Terkini di 666NS APK membuat pengalaman menjelajahi Game 
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/sports-rack.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://www.vaishnorack.com/terms-and-conditions.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/sports-rack.htmllicenses">Licenses</a>
+                                                            href="https://www.vaishnorack.com/terms-and-conditions.htmllicenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2690,7 +2690,7 @@ Fitur Digital Generasi Terkini di 666NS APK membuat pengalaman menjelajahi Game 
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/sports-rack.html">Help Center</a>
+                                                            href="https://www.vaishnorack.com/terms-and-conditions.html">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2713,7 +2713,7 @@ Fitur Digital Generasi Terkini di 666NS APK membuat pengalaman menjelajahi Game 
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/sports-rack.html">Forums</a>
+                                                            href="https://www.vaishnorack.com/terms-and-conditions.html">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2913,7 +2913,7 @@ Fitur Digital Generasi Terkini di 666NS APK membuat pengalaman menjelajahi Game 
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://www.vaishnorack.com/sports-rack.html">View license details</a>
+                    href="https://www.vaishnorack.com/terms-and-conditions.html">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
