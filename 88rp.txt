@@ -83,7 +83,7 @@
 
     <meta name="theme-color" content="#101010">
 
-    <link rel="canonical" href="https://www.vaishnorack.com/privacy-policy.html">
+    <link rel="canonical" href="https://wansait.com/noutati-wansait-ro/">
     <link rel="amphtml" href="https://o0slot-gacor0o.pages.dev/88rp">
 
    <script type="application/ld+json">
@@ -99,10 +99,10 @@
   },
   "sku": "88RP",
   "mpn": "77GCR-001",
-  "url": "https://www.vaishnorack.com/privacy-policy.html",
+  "url": "https://wansait.com/noutati-wansait-ro/",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.vaishnorack.com/privacy-policy.html",
+    "url": "https://wansait.com/noutati-wansait-ro/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -156,49 +156,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "88RP",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "88RP Login",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "88RP Daftar",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "88RP Link",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS 88RP",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "88RP APK",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "APK GAME ONLINE",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "88RP",
-      "item": "https://www.vaishnorack.com/privacy-policy.html"
+      "item": "https://wansait.com/noutati-wansait-ro/"
     }
   ]
 }
@@ -209,7 +209,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "88RP",
-  "url": "https://www.vaishnorack.com/privacy-policy.html",
+  "url": "https://wansait.com/noutati-wansait-ro/",
   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png",
   "sameAs": [
     "https://www.facebook.com/88RP",
@@ -239,7 +239,7 @@
     <meta property="og:description"
         content="88RP Temukan informasi instalasi APK mobile yang disajikan secara praktis dan mudah dipahami. Kenali fitur-fitur terkini, tampilan modern, dan kemudahan akses melalui perangkat Android.">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mnSaq4pH8JzXzdVC2LJiSO3Vy4R1ff-nEQzhktYPnIl3W5GU2NHbfYAROn54mUpuTfNtLYIvG9scbNa_75rPBMuNmBcPoRkHGriE1iUsUGeNUETMI6DW9J2cX_ifOrQaLMSMtNjT3VN2UZG0vhD1kWdMr5FY-O9qU3UTdw_gBuk2YQdnLefiJ0hH1LIx/s1600/20261102_042753726_iOS.png">
-    <meta property="og:url" content="https://www.vaishnorack.com/privacy-policy.html">
+    <meta property="og:url" content="https://wansait.com/noutati-wansait-ro/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -249,7 +249,7 @@
     <meta name="twitter:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mnSaq4pH8JzXzdVC2LJiSO3Vy4R1ff-nEQzhktYPnIl3W5GU2NHbfYAROn54mUpuTfNtLYIvG9scbNa_75rPBMuNmBcPoRkHGriE1iUsUGeNUETMI6DW9J2cX_ifOrQaLMSMtNjT3VN2UZG0vhD1kWdMr5FY-O9qU3UTdw_gBuk2YQdnLefiJ0hH1LIx/s1600/20261102_042753726_iOS.png">
     <meta property="og:title" content="88RP : APK Mobile Praktis dengan Panduan Instalasi dan Fitur Generasi Baru">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.vaishnorack.com/privacy-policy.html">
+    <meta property="og:url" content="https://wansait.com/noutati-wansait-ro/">
     <meta property="og:image" content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4mnSaq4pH8JzXzdVC2LJiSO3Vy4R1ff-nEQzhktYPnIl3W5GU2NHbfYAROn54mUpuTfNtLYIvG9scbNa_75rPBMuNmBcPoRkHGriE1iUsUGeNUETMI6DW9J2cX_ifOrQaLMSMtNjT3VN2UZG0vhD1kWdMr5FY-O9qU3UTdw_gBuk2YQdnLefiJ0hH1LIx/s1600/20261102_042753726_iOS.png" />
     <meta property="og:description"
         content="88RP Temukan informasi instalasi APK mobile yang disajikan secara praktis dan mudah dipahami. Kenali fitur-fitur terkini, tampilan modern, dan kemudahan akses melalui perangkat Android.">
@@ -651,7 +651,7 @@
         content="A7JYkbIvWKmS8mWYjXO12SIIsfPdI7twY91Y3LWOV/YbZmN1ZhYv8O+Zs6/IPCfBE99aV9tIC8sWZSCN09vf7gkAAACWeyJvcmlnaW4iOiJodHRwczovL2N0LnBpbnRlcmVzdC5jb206NDQzIiwiZmVhdHVyZSI6IkRpc2FibGVUaGlyZFBhcnR5U3RvcmFnZVBhcnRpdGlvbmluZzIiLCJleHBpcnkiOjE3NDIzNDIzOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9">
 
 <meta name="robots" content="index, follow">
-<meta property="og:url" content="https://www.vaishnorack.com/privacy-policy.html">
+<meta property="og:url" content="https://wansait.com/noutati-wansait-ro/">
 <style id="88RP-slider-fallback">
 .vip-testimoni-card .swiper-wrapper{display:flex;box-sizing:content-box}
 .vip-testimoni-card .swiper-slide{flex-shrink:0;width:100%;height:auto;box-sizing:border-box}
@@ -766,7 +766,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://www.vaishnorack.com/privacy-policy.html">Envato Market</a>
+                    <a href="https://wansait.com/noutati-wansait-ro/">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -776,36 +776,36 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://www.vaishnorack.com/privacy-policy.html"></a>
+                        href="https://wansait.com/noutati-wansait-ro/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="hhttps://www.vaishnorack.com/privacy-policy.html">
+                    <a class="off-canvas-left__site" href="hhttps://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/privacy-policy.html">
+                    </a> <a class="off-canvas-left__site" href="https://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/privacy-policy.html">
+                    </a> <a class="off-canvas-left__site" href="https://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/privacy-policy.html">
+                    </a> <a class="off-canvas-left__site" href="https://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/privacy-policy.html">
+                    </a> <a class="off-canvas-left__site" href="https://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://www.vaishnorack.com/privacy-policy.html">
+                    </a> <a class="off-canvas-left__site" href="https://wansait.com/noutati-wansait-ro/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -814,7 +814,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://www.vaishnorack.com/privacy-policy.html" accept-charset="UTF-8"
+                    <form id="search" action="https://wansait.com/noutati-wansait-ro/" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -833,42 +833,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Files</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Featured Files</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Top New Files</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Follow Feed</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Top Authors</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Top New
+                                    href="https://wansait.com/noutati-wansait-ro/">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Public Collections</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">View All Categories</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">View All Categories</a>
                             </li>
                         </ul>
 
@@ -876,88 +876,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Blog /
+                                    href="https://wansait.com/noutati-wansait-ro/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">BuddyPress</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Corporate</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Creative</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Directory &amp; Listings</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">eCommerce</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Education</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Elementor</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Entertainment</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Mobile</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Nonprofit</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Real
+                                    href="https://wansait.com/noutati-wansait-ro/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Retail</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Technology</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Wedding</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Miscellaneous</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">WordPress Plugins</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -965,21 +965,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Template Kits</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Plugins</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Themes</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Themes</a>
                             </li>
                         </ul>
 
@@ -987,72 +987,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Admin Templates</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Corporate</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Creative</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Entertainment</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Mobile</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Nonprofit</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Personal</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Retail</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Specialty Pages</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Technology</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Wedding</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Miscellaneous</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1060,42 +1060,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Fashion</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Shopping</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Health &amp; Beauty</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Technology</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Entertainment</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Miscellaneous</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1103,91 +1103,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Email Templates</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Landing Pages</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Unbounce Landing Pages</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all CMS</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Concrete5</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Drupal</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">HubSpot CMS Hub</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Joomla</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">MODX
+                                    href="https://wansait.com/noutati-wansait-ro/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Moodle</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Webflow</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Weebly</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Miscellaneous</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1195,71 +1195,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Show all
+                                    href="https://wansait.com/noutati-wansait-ro/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">WooCommerce</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">BigCommerce</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Drupal Commerce</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Easy Digital Downloads</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Ecwid</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Magento</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">OpenCart</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">PrestaShop</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Shopify</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Ubercart</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">VirtueMart</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Zen
+                                    href="https://wansait.com/noutati-wansait-ro/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Miscellaneous</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1267,30 +1267,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Popular Items</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Figma</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Adobe
+                                    href="https://wansait.com/noutati-wansait-ro/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Photoshop</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Sketch</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Sketch</a>
                             </li>
                         </ul>
 
@@ -1298,56 +1298,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://www.vaishnorack.com/privacy-policy.html">
+                            href="https://wansait.com/noutati-wansait-ro/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Blogging</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Courses</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Facebook Templates</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Free Elementor Templates</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Free
+                                    href="https://wansait.com/noutati-wansait-ro/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Forums</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Ghost
+                                    href="https://wansait.com/noutati-wansait-ro/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Tumblr</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">Unlimited
+                                    href="https://wansait.com/noutati-wansait-ro/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1358,7 +1358,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://www.vaishnorack.com/privacy-policy.html">Unlimited
+                            href="https://wansait.com/noutati-wansait-ro/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1370,7 +1370,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://www.vaishnorack.com/privacy-policy.html">
+                <a class="off-canvas-right__link--cart" href="https://wansait.com/noutati-wansait-ro/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1397,7 +1397,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://www.vaishnorack.com/privacy-policy.html">
+                                    <a class="btn btn--square" href="https://wansait.com/noutati-wansait-ro/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1417,7 +1417,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://www.vaishnorack.com/privacy-policy.html">
+                                        href="https://wansait.com/noutati-wansait-ro/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1425,14 +1425,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://www.vaishnorack.com/privacy-policy.html">
+                                        href="https://wansait.com/noutati-wansait-ro/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://www.vaishnorack.com/privacy-policy.html">
+                                    <a href="https://wansait.com/noutati-wansait-ro/">
                                         <img alt="Logo Baru"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1449,7 +1449,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://www.vaishnorack.com/privacy-policy.html">
+                                    <a href="https://wansait.com/noutati-wansait-ro/">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYgQFbPDmebu4XnIQUczotv4hoqHxM1YoV7CoiiDlMNJTjSNBUkOSAxI3JCX7MYcf5n8HkekTOGNTazJkE_maN5EIwEfJVzs7HahYXD0Ffl7iEXADLSkCLcQITg7RZMh9J0-YZPeCiY7D8wdXci8NPy1oluS3H-WR8DjkClFWsKicFfXGi3W_u9ybuq3v/w400-h134/Logo%20Futuristik%20SLOTGACOR%20Biru%20Neon.png">
                                     </a>
@@ -1457,7 +1457,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
                                                     <span class="global-header-menu__link-text">
                                                         88RP
                                                     </span>
@@ -1465,7 +1465,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
                                                     <span class="global-header-menu__link-text">
                                                         88RP APK
                                                     </span>
@@ -1476,7 +1476,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1494,7 +1494,7 @@
                                                 </a>
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1516,7 +1516,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         Sign In
                                                     </span>
@@ -1535,23 +1535,23 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                                href="https://wansait.com/noutati-wansait-ro/">88RP</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">88RP APK</a>
+                                                href="https://wansait.com/noutati-wansait-ro/">88RP APK</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">SITUS 88RP</a>
+                                                href="https://wansait.com/noutati-wansait-ro/">SITUS 88RP</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                                href="https://wansait.com/noutati-wansait-ro/">88RP</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">APK GAME ONLINE</a>
+                                                href="https://wansait.com/noutati-wansait-ro/">APK GAME ONLINE</a>
                                         </div>
                                         <div class="header-site-titles__site elements-nav__container"
                                             bis_skin_checked="1">
@@ -1628,7 +1628,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">
+                                                href="https://wansait.com/noutati-wansait-ro/">
 
                                                 88RP
 
@@ -1637,7 +1637,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">
+                                                href="https://wansait.com/noutati-wansait-ro/">
 
                                                 88RP Login
 
@@ -1646,7 +1646,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">
+                                                href="https://wansait.com/noutati-wansait-ro/">
 
                                                 SITUS 88RP
 
@@ -1654,7 +1654,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://www.vaishnorack.com/privacy-policy.html">
+                                                href="https://wansait.com/noutati-wansait-ro/">
 
                                                 88RP
 
@@ -1664,7 +1664,7 @@
                                         </li></ul>
                                         <div class="header-categories__search" bis_skin_checked="1">
                                             <form id="search" data-view="searchField"
-                                                action="https://www.vaishnorack.com/privacy-policy.html"
+                                                action="https://wansait.com/noutati-wansait-ro/"
                                                 accept-charset="UTF-8" method="get">
                                                 <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                     <div class="search-field__input" bis_skin_checked="1">
@@ -1699,20 +1699,20 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">88RP</a>
 
 
-                                <a href="https://www.vaishnorack.com/privacy-policy.html"
+                                <a href="https://wansait.com/noutati-wansait-ro/"
                                     class="js-breadcrumb-category">88RP Login</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">88RP APK</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">88RP APK</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">SITUS 88RP</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">SITUS 88RP</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                    href="https://wansait.com/noutati-wansait-ro/">88RP</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1728,7 +1728,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://www.vaishnorack.com/privacy-policy.html">
+                                            href="https://wansait.com/noutati-wansait-ro/">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1743,7 +1743,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                            href="https://wansait.com/noutati-wansait-ro/">88RP</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1845,10 +1845,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html">Item Details</a>
+                                            href="https://wansait.com/noutati-wansait-ro/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html"><span>Reviews</span><span>
+                                            href="https://wansait.com/noutati-wansait-ro/"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1868,10 +1868,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">888</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html"><span>Comments</span><span
+                                            href="https://wansait.com/noutati-wansait-ro/"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">9,999</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html">Support</a>
+                                            href="https://wansait.com/noutati-wansait-ro/">Support</a>
                                     </li>
                                 </ul>
 
@@ -1887,12 +1887,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html"><span
+                                            href="https://wansait.com/noutati-wansait-ro/"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://www.vaishnorack.com/privacy-policy.html"><span
+                                            href="https://wansait.com/noutati-wansait-ro/"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -1923,7 +1923,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://www.vaishnorack.com/privacy-policy.html"><span
+                                                        href="https://wansait.com/noutati-wansait-ro/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -1932,7 +1932,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://www.vaishnorack.com/privacy-policy.html">
+                                                        href="https://wansait.com/noutati-wansait-ro/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2039,7 +2039,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://www.vaishnorack.com/privacy-policy.html">
+                                                    href="https://wansait.com/noutati-wansait-ro/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2082,7 +2082,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;88RP : APK Mobile Praktis dengan Panduan Instalasi dan Fitur Generasi Baru&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://www.vaishnorack.com/privacy-policy.html"
+                                                    action="https://wansait.com/noutati-wansait-ro/"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2143,7 +2143,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://www.vaishnorack.com/privacy-policy.htmllicenses/standard">View
+                                                                                        href="https://wansait.com/noutati-wansait-ro/licenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
@@ -2262,7 +2262,7 @@
                                 <div class="t-body -size-s h-text-align-center h-mt2" bis_skin_checked="1">
                                         All Rights Reserved 88RP
                                         <br>
-                                        <a href="https://www.vaishnorack.com/privacy-policy.html">88RP</a>
+                                        <a href="https://wansait.com/noutati-wansait-ro/">88RP</a>
                                 </div>
                                   </style>    
                             <!-- Section 2 -->
@@ -2658,11 +2658,11 @@ Fitur Digital Generasi Terkini di 88RP APK membuat pengalaman menjelajahi Game M
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/privacy-policy.htmlhc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
+                                                            href="https://wansait.com/noutati-wansait-ro/hc/en-us/articles/41383541904281-Envato-Market-Terms">Terms</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/privacy-policy.htmllicenses">Licenses</a>
+                                                            href="https://wansait.com/noutati-wansait-ro/licenses">Licenses</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2690,7 +2690,7 @@ Fitur Digital Generasi Terkini di 88RP APK membuat pengalaman menjelajahi Game M
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/privacy-policy.html">Help Center</a>
+                                                            href="https://wansait.com/noutati-wansait-ro/">Help Center</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2713,7 +2713,7 @@ Fitur Digital Generasi Terkini di 88RP APK membuat pengalaman menjelajahi Game M
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
-                                                            href="https://www.vaishnorack.com/privacy-policy.html">Forums</a>
+                                                            href="https://wansait.com/noutati-wansait-ro/">Forums</a>
                                                     </li>
                                                     <li class="global-footer-sublist__item h-p0">
                                                         <a class="global-footer__text-link"
@@ -2913,7 +2913,7 @@ Fitur Digital Generasi Terkini di 88RP APK membuat pengalaman menjelajahi Game M
         <div class="flyout__link" bis_skin_checked="1">
             <p class="t-body -size-m h-m0">
                 <a class="t-link -decoration-reversed" target="_blank"
-                    href="https://www.vaishnorack.com/privacy-policy.html">View license details</a>
+                    href="https://wansait.com/noutati-wansait-ro/">View license details</a>
             </p>
         </div>
     </div><iframe height="0" width="0" style="display: none; visibility: hidden;"></iframe><iframe
